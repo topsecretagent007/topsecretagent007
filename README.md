@@ -11,7 +11,7 @@
 <img src="https://github.com/user-attachments/assets/e71dcb53-8a74-4fc0-b5ed-321488a2a981" white="550" height="300" alt="gmail logo" />
 </div>
 <div  align="center">
-<img src="https://github.com/user-attachments/assets/718d2c7c-91dd-40f3-b3fc-92e254847ae1" white="550" height="300" alt="gmail logo"   />
+<img src="https://github.com/user-attachments/assets/718d2c7c-91dd-40f3-b3fc-92e254847ae1" white="550" height="350" alt="gmail logo"   />
 </div>
 
 <h5 align="left">- Trading Bot Projects</h5>
