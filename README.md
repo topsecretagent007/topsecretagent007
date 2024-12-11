@@ -6,7 +6,7 @@
 
 <h3 align="left">This is my project (blockchain and bot, web3, web2, design)</h3>
 
-<h5 align="left">- Pump.fun forking</h5>
+<h5 align="left">- Pump.fun forking (Frontend, Backend, Smart Contract)</h5>
 <a href="https://github.com/topsecretagent007/pump-fun" target="_blank">
 <div  align="center">
 <img src="https://github.com/user-attachments/assets/e71dcb53-8a74-4fc0-b5ed-321488a2a981" white="550" height="300" alt="gmail logo" />
