@@ -17,11 +17,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topsecretagent007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=topsecretagent007&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=1" height="180" alt="streak graph"  />
-</div>
-
-###
